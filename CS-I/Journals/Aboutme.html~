@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>About me</title>
+  </head>
+  <body style="background-color:lightblue;">
+    <h3><a href="https://www.codermerlin.com/users/abdulla-hassen/Digital%20Portfolio/index.html"> Back home!</a></h3>
+    <style>
+    
+      h3 {
+	  align-content:left;
+      }
+      </style>
+   
+   <h1> About me </h1>
+    <head>
+
+   <hr size ="06" color=black>
+   <h2> Hello my name is Abdulla Hassen. I am a CS-I student
+    under Mrs.jang. This is my first year getting into coding I look forward to learning new things. I enjoy ging to the gym to lift, playing video games and hanfing out with friends.
+    <br>
+    My digital portfolio is important to me because it creates organization with all my files and shows my progress throughout the year.
+
+   </h2>
+
+   
+
+
+
+
+
+   
+ </body>
+  </html>

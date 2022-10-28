@@ -1,0 +1,35 @@
+Name:Abdulla Hasse
+Journal: J____
+Date: 01-Jan-2023
+
+I received assistance from:No one
+
+I assisted: No one
+
+1.1:One service that I use is gmail for emails.
+  12 | Another one that I use is amazon.   
+
+1.2:
+
+2.1:
+
+2.2:
+
+What did I learn? What is the "big idea"?
+
+prompt change? If so, how? Why is this useful?
+	       Yes it changed to haveing merlin at the end of the prompt. its useful because it shows which directory you are in.
+	      
+	       5.1 What happens each time you press the ↑?
+	       The line goes up
+	      
+	       5.2 What happens each time you press the ↓?
+	       The line goes down
+	      
+	       6.1 Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?
+	       Hello world was not printed before but the directory was changed to hello world it was printed
+	    What challenges did I encounter?
+
+How could this experience be improved?
+
+Free Reflection: How has what I've learned affected my thinking?

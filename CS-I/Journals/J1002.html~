@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Journal J1002</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body> <h2> Name: Abdulla Hassen
+	       Journal: J1002
+	        Date: 22-aug-2022
+	     
+	       I received assistance from: Vincent Nguyen
+	      
+	       I assisted: Vincent Nguyen
+	      <br>
+	      1.1
+<br>
+	      Name at least two other services that you personally use which are implemented using a Client/Server Model?
+	        One client server model I  use is gmail
+	        Another client server model that I use is amazon
+<br>
+2.1 It appears that both Jack Williams and John Williams can have a directory of the same name. Do you think the ability to have two different users create a directory of the same name is important? Why?
+<br>
+Yes I think its important. I think its important because it creates organaztion
+<br>
+3.1 Why do you think the home directory has a special symbol to represent it?
+So its recodnizable as "home"
+<br>
+4.1 Did the prompt change? If so, how? Why is this useful?
+	       Yes it changed to haveing merlin at the end of the prompt. its useful because it shows which directory you are in.
+	      
+	       5.1 What happens each time you press the ↑?
+	       The line goes up
+	      
+	       5.2 What happens each time you press the ↓?
+	       The line goes down
+	      
+	       6.1 Was "Hello, World!" printed to the screen as before? If not, why not? What do you think happened to the text?
+	       Hello world was not printed before but the directory was changed to hello world it was printed
+	      
+	       7.1 How does the ls command differ from the tree command?
+	        Use ls when you need a list of files and use tree for a file heiarchy
+	      
+	       7.2 How do you choose to use one over the other?
+	       Use ls when you need a list of files and use tree for a file heiarchy
+	     
+	       8.1 What do you think the argument to sleep specifies
+	       Shows how much time the prgram should sleep in seconds
+	      
+    8.2
+    <br>
+Are you able to prove your hypothesis? How
+ Yes, i typed the command then waited for the amount of time it showed
+<br>	      
+    9.1
+<br>
+  How is the behavior different from what you expected?
+I thought it sleeps but it does not
+
+9.2 What do you think it means to run a job in the background?
+When a job runs on its own without you controlling it
+
+ 9.3 What do you think the number displayed in brackets specifies?
+ Which job it is
+
+ 10.1 What do you observe as you execute the jobs command?
+Shows which jobs are running
+
+
+ What did I learn? What is the "big idea"?
+ The big idea that i learned was the basics of programming and coding
+
+ What challenges did I encounter?
+ remembering commands
+ How could this experience be improved?
+by practicing the commands
+  Free Reflection: How has what Ive learned affected my thinking?
+  I am aware how websites work now                
+
+
+
+
+
+  </h2>                                         
+  </html>
